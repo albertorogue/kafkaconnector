@@ -4,7 +4,7 @@ Java application to connect to Kafka topics
 ## How to start Kafka Server?
 docker-compose up -d
 
-## How to create a Kafka topic?
+## How to use a Kafka topic?
 Download https://www.apache.org/dyn/closer.cgi?path=/kafka/2.7.0/kafka_2.12-2.7.0.tgz
 
 Go to /bin/window/
